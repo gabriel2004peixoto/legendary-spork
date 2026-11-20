@@ -1,2 +1,4 @@
 começando os comiits
 ]
+
+novidades feitas no vscode, no git hub .dev
