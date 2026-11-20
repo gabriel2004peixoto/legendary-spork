@@ -1,2 +1,3 @@
 começando os comiits
-]
+
+novidades feitas no vscode web, saindo do github.dev
